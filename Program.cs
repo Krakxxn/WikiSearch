@@ -7,7 +7,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("=== Bienvenue dans le moteur de recherche Wikipédia ! ===");
+        // Afficher "WikiSearch" dans le terminal
+        Console.WriteLine("========================================");
+        Console.WriteLine("            WikiSearch");
+        Console.WriteLine("========================================");
 
         while (true)
         {
@@ -49,4 +52,3 @@ class Program
         Console.ReadKey();
     }
 }
-
