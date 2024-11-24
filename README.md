@@ -23,6 +23,7 @@
 5. Tapez `exit` pour quitter l'application.
 
 ## Comment l'installer
-1. Clonez ce dépôt sur votre machine :
-   ```bash
-   git clone https://github.com/<Krakxxn>/WikiSearch.git
+1. Installer le zip sur votre ordinateur
+2. ouvrir avec winrar par exemple
+3. suivre ce chemin : bin/Release/net8.0/win-x64
+4. tout en bas vous trouverez WikiSearch.exe
