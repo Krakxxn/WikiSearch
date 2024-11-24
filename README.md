@@ -25,4 +25,4 @@
 ## Comment l'installer
 1. Clonez ce dépôt sur votre machine :
    ```bash
-   git clone https://github.com/<votre-nom-utilisateur>/WikiSearch.git
+   git clone https://github.com/<Krakxxn>/WikiSearch.git
